@@ -1,0 +1,6 @@
+{
+  "name": "Hydratation",
+  "description": "Application de suivi d'hydratation avec cercle de progression pour objectif 2L, bouton +250ml, reset et thème sombre avec accents turquoise.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
